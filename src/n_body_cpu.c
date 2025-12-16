@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Mandelbrot\n");
+    printf("N Body CPU\n");
     return 0;
 }

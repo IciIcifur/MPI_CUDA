@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Mandelbrot\n");
+    printf("N Body Cuda\n");
     return 0;
 }
