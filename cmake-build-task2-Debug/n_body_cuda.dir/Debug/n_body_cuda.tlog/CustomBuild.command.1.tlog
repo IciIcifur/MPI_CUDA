@@ -1,0 +1,10 @@
+^C:\USERS\79960\CLIONPROJECTS\MPI_CUDA\TASK2\CMAKELISTS.TXT
+setlocal
+C:\Users\79960\scoop\apps\cmake\current\bin\cmake.exe -SC:/Users/79960/CLionProjects/MPI_CUDA/task2 -BC:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug --check-stamp-file C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

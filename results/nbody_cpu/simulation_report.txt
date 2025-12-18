@@ -1,0 +1,29 @@
+=== N-BODY SIMULATION REPORT ===
+
+Data file: C:\Users\79960\CLionProjects\MPI_CUDA\results\nbody_cpu\trajectories.csv
+Number of bodies: 4
+Number of time steps: 357
+Simulation time: from 0.0 to 30758400.0 s
+Time step: 86400.00 s
+
+FINAL POSITIONS:
+Body 1:
+  Initial: (0.00e+00, 0.00e+00) m
+  Final:   (6.37e+05, 5.85e+06) m
+  Displacement: 5.89e+06 m
+
+Body 2:
+  Initial: (1.50e+11, 0.00e+00) m
+  Final:   (1.48e+11, -2.32e+10) m
+  Displacement: 2.33e+10 m
+
+Body 3:
+  Initial: (1.08e+11, 0.00e+00) m
+  Final:   (-9.09e+10, -6.02e+10) m
+  Displacement: 2.08e+11 m
+
+Body 4:
+  Initial: (2.28e+11, 0.00e+00) m
+  Final:   (-2.23e+11, -3.57e+10) m
+  Displacement: 4.52e+11 m
+

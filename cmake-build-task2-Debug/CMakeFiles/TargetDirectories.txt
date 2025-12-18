@@ -1,0 +1,3 @@
+C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/n_body_cuda.dir
+C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/ZERO_CHECK.dir
