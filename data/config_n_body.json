@@ -1,7 +1,7 @@
 {
   "tend": 30758400,
   "dt": 86400,
+  "input": "solar_4.txt",
   "n": 5,
-  "seed": 12345,
-  "input": "solar_4.txt"
+  "seed": 12345
 }
