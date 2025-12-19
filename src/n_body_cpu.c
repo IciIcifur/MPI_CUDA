@@ -6,18 +6,15 @@
 
 #ifdef _WIN32
   #include <direct.h>
-  #include <io.h>
-  #define access _access
-  #define F_OK 0
 #else
   #include <sys/stat.h>
-  #include <unistd.h>
 #endif
 
 #ifdef _OPENMP
   #include <omp.h>
 #else
   static inline int omp_get_max_threads(void) { return 1; }
+  static inline double omp_get_wtime(void) { return (double)clock() / (double)CLOCKS_PER_SEC; }
 #endif
 
 #ifndef G
@@ -40,14 +37,6 @@ static void create_directory(const char* path) {
     _mkdir(path);
 #else
     mkdir(path, 0777);
-#endif
-}
-
-static double get_time_seconds(void) {
-#ifdef USE_OMP_TIMER
-    return omp_get_wtime();
-#else
-    return (double)clock() / (double)CLOCKS_PER_SEC;
 #endif
 }
 
@@ -166,8 +155,8 @@ void euler_step(Particle* p, int n, double dt) {
 #pragma omp parallel for private(i)
 #endif
     for (i = 0; i < n; ++i) {
-        const double ax = p[i].fx / p[i].mass;
-        const double ay = p[i].fy / p[i].mass;
+        double ax = p[i].fx / p[i].mass;
+        double ay = p[i].fy / p[i].mass;
 
         p[i].vx += ax * dt;
         p[i].vy += ay * dt;
@@ -185,53 +174,9 @@ int validate_parameters(double t_end, double dt, int n) {
     return 1;
 }
 
-static void get_output_paths(const char* argv_out,
-                             const char** outpath,
-                             const char** metricspath) {
-    static char metrics_buf[4096];
-
-    if (argv_out && argv_out[0] != '\0') {
-        *outpath = argv_out;
-
-        const char* last_sep = strrchr(argv_out, '\\');
-        #ifdef _WIN32
-        const char sep = '\\';
-        #else
-        const char sep = '/';
-        #endif
-
-        if (!last_sep) last_sep = strrchr(argv_out, '/');
-
-        if (last_sep) {
-            size_t dir_len = (size_t)(last_sep - argv_out);
-            if (dir_len >= sizeof(metrics_buf)) dir_len = sizeof(metrics_buf) - 1;
-            memcpy(metrics_buf, argv_out, dir_len);
-            metrics_buf[dir_len] = '\0';
-        } else {
-            strcpy(metrics_buf, ".");
-        }
-
-        const size_t len = strlen(metrics_buf);
-        if (len + 1 + strlen("metrics_cpu.txt") + 1 < sizeof(metrics_buf)) {
-            metrics_buf[len] = sep;
-            metrics_buf[len + 1] = '\0';
-            strcat(metrics_buf, "metrics_cpu.txt");
-        } else {
-            strcpy(metrics_buf, "metrics_cpu.txt");
-        }
-
-        *metricspath = metrics_buf;
-    } else {
-        create_directory("results");
-        create_directory("results/nbody_cpu");
-        *outpath = "results/nbody_cpu/trajectories.csv";
-        *metricspath = "results/nbody_cpu/metrics.txt";
-    }
-}
-
-int main(const int argc, char* argv[]) {
+int main(int argc, char* argv[]) {
     printf("N-Body - CPU OpenMP\n");
-    printf("Usage: %s <t_end> <input_file> [dt] [out_csv] [eps]\n", argv[0]);
+    printf("Usage: %s <t_end> <input_file> [dt] [eps] [--no-trajectories]\n", argv[0]);
 
     if (argc < 3) {
         fprintf(stderr, "Not enough arguments.\n");
@@ -240,9 +185,24 @@ int main(const int argc, char* argv[]) {
 
     const double t_end = atof(argv[1]);
     const char* input_file = argv[2];
-    const double dt = (argc >= 4) ? atof(argv[3]) : DEFAULT_DT;
-    const char* out_csv_arg = (argc >= 5) ? argv[4] : NULL;
-    const double eps = (argc >= 6) ? atof(argv[5]) : DEFAULT_EPS;
+    double dt = DEFAULT_DT;
+    double eps = DEFAULT_EPS;
+    int write_trajectories = 1;
+
+    int argi = 3;
+    if (argi < argc && argv[argi][0] != '-') {
+        dt = atof(argv[argi]);
+        argi++;
+    }
+    if (argi < argc && argv[argi][0] != '-') {
+        eps = atof(argv[argi]);
+        argi++;
+    }
+    for (; argi < argc; ++argi) {
+        if (strcmp(argv[argi], "--no-trajectories") == 0) {
+            write_trajectories = 0;
+        }
+    }
 
     Particle* particles = NULL;
     int n = 0;
@@ -259,38 +219,30 @@ int main(const int argc, char* argv[]) {
     printf("Particles: %d, t_end=%.6g, dt=%.6g, eps=%.6g\n", n, t_end, dt, eps);
     printf("OpenMP threads: %d\n", max_threads);
 
-    const char* outpath = NULL;
-    const char* metricspath = NULL;
-    get_output_paths(out_csv_arg, &outpath, &metricspath);
+    create_directory("results");
+    create_directory("results/nbody_cpu");
+    const char* outpath = "results/nbody_cpu/trajectories.csv";
+    const char* metricspath = "results/nbody_cpu/metrics_cpu.txt";
 
-    if (out_csv_arg) {
-        char tmp[4096];
-        strncpy(tmp, outpath, sizeof(tmp) - 1);
-        tmp[sizeof(tmp) - 1] = '\0';
-        char* last_sep = strrchr(tmp, '\\');
-        if (!last_sep) last_sep = strrchr(tmp, '/');
-        if (last_sep) {
-            *last_sep = '\0';
-            create_directory(tmp);
+    FILE* out = NULL;
+    if (write_trajectories) {
+        out = fopen(outpath, "w");
+        if (!out) {
+            fprintf(stderr, "ERROR: Cannot open %s\n", outpath);
+            free(particles);
+            return 1;
         }
-    }
 
-    FILE* out = fopen(outpath, "w");
-    if (!out) {
-        fprintf(stderr, "ERROR: Cannot open %s\n", outpath);
-        free(particles);
-        return 1;
-    }
+        fprintf(out, "t");
+        for (int i = 0; i < n; ++i) fprintf(out, ",x%d,y%d", i+1, i+1);
+        fprintf(out, "\n");
 
-    fprintf(out, "t");
-    for (int i = 0; i < n; ++i) fprintf(out, ",x%d,y%d", i+1, i+1);
-    fprintf(out, "\n");
-
-    fprintf(out, "0.0");
-    for (int i = 0; i < n; ++i) {
-        fprintf(out, ",%.10g,%.10g", particles[i].x, particles[i].y);
+        fprintf(out, "0.0");
+        for (int i = 0; i < n; ++i) {
+            fprintf(out, ",%.10g,%.10g", particles[i].x, particles[i].y);
+        }
+        fprintf(out, "\n");
     }
-    fprintf(out, "\n");
 
     const int total_steps = (int)ceil(t_end / dt);
     double t = 0.0;
@@ -298,16 +250,14 @@ int main(const int argc, char* argv[]) {
     double total_time = 0.0;
     double min_step_time = 1e100;
 
-    const double sim_start = get_time_seconds();
-
     for (int step = 1; step <= total_steps; ++step) {
-        const double step_start = get_time_seconds();
+        const double step_start = omp_get_wtime();
 
         reset_forces(particles, n);
         compute_forces(particles, n, eps);
         euler_step(particles, n, dt);
 
-        const double step_end = get_time_seconds();
+        const double step_end = omp_get_wtime();
         const double step_time = step_end - step_start;
 
         total_time += step_time;
@@ -315,17 +265,26 @@ int main(const int argc, char* argv[]) {
 
         t += dt;
 
-        fprintf(out, "%.10g", t);
-        for (int i = 0; i < n; ++i) {
-            fprintf(out, ",%.10g,%.10g", particles[i].x, particles[i].y);
+        if (write_trajectories) {
+            fprintf(out, "%.10g", t);
+            for (int i = 0; i < n; ++i) {
+                fprintf(out, ",%.10g,%.10g", particles[i].x, particles[i].y);
+            }
+            fprintf(out, "\n");
         }
-        fprintf(out, "\n");
+
+        if (step % ((total_steps > 10) ? (total_steps / 10) : 1) == 0) {
+            printf("Progress: %d%% (t=%.6g)\n",
+                   (int)((100.0 * step) / total_steps), t);
+        }
     }
 
-    const double sim_end = get_time_seconds();
-    const double wall_time = sim_end - sim_start;
-
-    fclose(out);
+    if (write_trajectories && out) {
+        fclose(out);
+        printf("\nSimulation finished. Output: %s\n", outpath);
+    } else {
+        printf("\nSimulation finished. Trajectories were not written.\n");
+    }
 
     FILE* mf = fopen(metricspath, "w");
     if (!mf) {
@@ -345,14 +304,10 @@ int main(const int argc, char* argv[]) {
     fprintf(mf, "Total compute time (sum of per-step): %.6f s\n", total_time);
     fprintf(mf, "Min step time: %.6f s\n", min_step_time);
     fprintf(mf, "Avg step time: %.6f s\n", total_time / total_steps);
-    fprintf(mf, "Wall-clock time (whole simulation): %.6f s\n", wall_time);
     fprintf(mf, "Steps per second (avg): %.3f\n", total_steps / total_time);
-    fprintf(mf, "Output trajectories: %s\n", outpath);
+    fprintf(mf, "Output trajectories: %s\n", write_trajectories ? outpath : "(disabled)");
     fclose(mf);
 
     free(particles);
-
-    printf("Simulation finished. Output: %s\n", outpath);
-    printf("Metrics written to: %s\n", metricspath);
     return 0;
 }

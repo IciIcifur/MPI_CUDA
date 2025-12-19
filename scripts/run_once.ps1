@@ -1,5 +1,7 @@
 param(
-    [Parameter(Mandatory=$true)][ValidateSet("cpu","cuda")][string]$Target
+    [Parameter(Mandatory=$true)][ValidateSet("cpu","cuda")][string]$Target,
+    [switch]$NoPlot,
+    [switch]$NoTrajectories
 )
 
 function Get-RepoRoot {
@@ -98,7 +100,13 @@ $ci = [System.Globalization.CultureInfo]::InvariantCulture
 $tendStr = ([double]$cfg.tend).ToString($ci)
 $dtStr = ([double]$cfg.dt).ToString($ci)
 
-$args = @($tendStr, $inputPath, $dtStr, $outCsv)
+$args = @($tendStr, $inputPath, $dtStr)
+
+if ($NoTrajectories) {
+    $args += "--no-trajectories"
+} else {
+}
+
 Write-Host "Running:" "`"$binary`" $($args -join ' ')"
 $proc = Start-Process -FilePath $binary -ArgumentList $args -NoNewWindow -Wait -PassThru
 if ($proc) {
@@ -108,7 +116,7 @@ if ($proc) {
     exit 1
 }
 
-if ($proc -and $proc.ExitCode -eq 0) {
+if ($proc -and $proc.ExitCode -eq 0 -and -not $NoPlot -and -not $NoTrajectories) {
     $plotScript = Join-Path $repoRoot "scripts\plot_orbits.py"
     if (Test-Path $plotScript) {
         Write-Host "Calling plotting script..."

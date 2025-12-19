@@ -142,8 +142,14 @@ def main() -> int:
 
             for target in TARGETS:
                 print(f"--- Running target: {target} for batch: {batch_name} ---")
+
+                if target == "cpu":
+                    args = ["cpu", "-NoPlot", "-NoTrajectories"]
+                else:
+                    args = ["cuda", "-NoPlot", "-NoTrajectories"]
+
                 env = None
-                rc = run_powershell_script(RUN_SCRIPT, [target], env=env)
+                rc = run_powershell_script(RUN_SCRIPT, args, env=env)
                 if rc != 0:
                     print(f"[ERROR] run_once.ps1 failed for target={target}, batch={batch_name}, exit code={rc}")
                     continue
@@ -217,7 +223,6 @@ def main() -> int:
                 outf.flush()
                 print(f"[OK] Finished target={target} for batch={batch_name}")
 
-
         for cfg in BATCH_CONFIGS_OMP:
             batch_name = cfg["name"]
             tend = cfg["tend"]
@@ -247,8 +252,9 @@ def main() -> int:
             env = os.environ.copy()
             env["OMP_NUM_THREADS"] = str(threads_req)
 
+            args = ["cpu", "-NoPlot", "-NoTrajectories"]
             print(f"--- Running CPU (OMP) target for batch: {batch_name} with OMP_NUM_THREADS={threads_req} ---")
-            rc = run_powershell_script(RUN_SCRIPT, ["cpu"], env=env)
+            rc = run_powershell_script(RUN_SCRIPT, args, env=env)
             if rc != 0:
                 print(f"[ERROR] run_once.ps1 failed for OMP batch={batch_name}, exit code={rc}")
                 continue
