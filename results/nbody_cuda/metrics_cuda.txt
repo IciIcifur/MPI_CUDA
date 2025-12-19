@@ -1,0 +1,16 @@
+N-body CUDA simulation metrics
+Input file: C:\Users\79960\CLionProjects\MPI_CUDA\data\solar_4.txt
+Particles: 4
+t_end: 30758400
+dt: 86400
+eps: 1e-05
+CUDA device: NVIDIA GeForce RTX 3070 Laptop GPU
+Compute capability: 8.6
+Blocks: 1
+Threads per block: 256
+Total steps: 356
+Total kernel time (reset+forces+step): 21.639622 ms
+Min step time: 0.037472 ms
+Avg step time: 0.060785 ms
+Steps per second (avg): 16451.305
+Output trajectories: results/nbody_cuda/trajectories.csv

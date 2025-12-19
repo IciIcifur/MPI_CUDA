@@ -1,0 +1,16 @@
+N-body CUDA simulation metrics
+Input file: C:\Users\79960\CLionProjects\MPI_CUDA\data\random_N100.txt
+Particles: 100
+t_end: 10000
+dt: 2
+eps: 1e-05
+CUDA device: NVIDIA GeForce RTX 3070 Laptop GPU
+Compute capability: 8.6
+Blocks: 1
+Threads per block: 256
+Total steps: 5000
+Total kernel time (reset+forces+step): 736.605835 ms
+Min step time: 0.131072 ms
+Avg step time: 0.147321 ms
+Steps per second (avg): 6787.891
+Output trajectories: (disabled)

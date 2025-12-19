@@ -1,0 +1,13 @@
+N-body CPU simulation metrics
+Input file: C:\Users\79960\CLionProjects\MPI_CUDA\data\random_N100.txt
+Particles: 100
+t_end: 10000
+dt: 5
+eps: 1e-05
+OpenMP threads: 16
+Total steps: 2000
+Total compute time (sum of per-step): 0.343638 s
+Min step time: 0.000133 s
+Avg step time: 0.000172 s
+Steps per second (avg): 5820.075
+Output trajectories: (disabled)

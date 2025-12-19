@@ -1,0 +1,13 @@
+N-body CPU simulation metrics
+Input file: C:\Users\79960\CLionProjects\MPI_CUDA\data\solar_4.txt
+Particles: 4
+t_end: 30758400
+dt: 86400
+eps: 1e-05
+OpenMP threads: 16
+Total steps: 356
+Total compute time (sum of per-step): 0.009779 s
+Min step time: 0.000006 s
+Avg step time: 0.000027 s
+Steps per second (avg): 36403.796
+Output trajectories: results/nbody_cpu/trajectories.csv
