@@ -119,7 +119,7 @@ events:
       The output was:
       0
       ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework
-      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:51:56.
+      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:29.
       
       ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdC\\CompilerIdC.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
       PrepareForBuild:
@@ -148,7 +148,7 @@ events:
           ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
           ╨Ю╤И╨╕╨▒╨╛╨║: 0
       
-      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.33
+      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.29
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -1129,7 +1129,7 @@ events:
       The output was:
       0
       ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework
-      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:51:58.
+      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:31.
       
       ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
       PrepareForBuild:
@@ -1158,7 +1158,7 @@ events:
           ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
           ╨Ю╤И╨╕╨▒╨╛╨║: 0
       
-      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.33
+      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.31
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -1648,8 +1648,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-fka9xa"
-      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-fka9xa"
+      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-hijq5e"
+      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-hijq5e"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1658,39 +1658,39 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-fka9xa'
+        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-hijq5e'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_07f04.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_82396.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:00.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:33.
         
-        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-fka9xa\\cmTC_07f04.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hijq5e\\cmTC_82396.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-fka9xa\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_07f04.dir\\Debug\\cmTC_07f04.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hijq5e\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_82396.dir\\Debug\\cmTC_82396.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_07f04.dir\\Debug\\cmTC_07f04.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_07f04.dir\\Debug\\cmTC_07f04.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_82396.dir\\Debug\\cmTC_82396.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_82396.dir\\Debug\\cmTC_82396.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_07f04.dir\\Debug\\\\" /Fd"cmTC_07f04.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_82396.dir\\Debug\\\\" /Fd"cmTC_82396.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.44.35222 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_07f04.dir\\Debug\\\\" /Fd"cmTC_07f04.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /Fo"cmTC_82396.dir\\Debug\\\\" /Fd"cmTC_82396.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-fka9xa\\Debug\\cmTC_07f04.exe" /INCREMENTAL /ILK:"cmTC_07f04.dir\\Debug\\cmTC_07f04.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-fka9xa/Debug/cmTC_07f04.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-fka9xa/Debug/cmTC_07f04.lib" /MACHINE:X64  /machine:x64 cmTC_07f04.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_07f04.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-fka9xa\\Debug\\cmTC_07f04.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hijq5e\\Debug\\cmTC_82396.exe" /INCREMENTAL /ILK:"cmTC_82396.dir\\Debug\\cmTC_82396.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-hijq5e/Debug/cmTC_82396.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-hijq5e/Debug/cmTC_82396.lib" /MACHINE:X64  /machine:x64 cmTC_82396.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_82396.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hijq5e\\Debug\\cmTC_82396.exe
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_07f04.dir\\Debug\\cmTC_07f04.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_07f04.dir\\Debug\\cmTC_07f04.tlog\\cmTC_07f04.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-fka9xa\\cmTC_07f04.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_82396.dir\\Debug\\cmTC_82396.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_82396.dir\\Debug\\cmTC_82396.tlog\\cmTC_82396.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hijq5e\\cmTC_82396.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.30
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.23
         
       exitCode: 0
   -
@@ -1730,8 +1730,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-j3l8c4"
-      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-j3l8c4"
+      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-lw1dl4"
+      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-lw1dl4"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1741,39 +1741,39 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-j3l8c4'
+        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-lw1dl4'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_22cf7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_805c5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:02.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:35.
         
-        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-j3l8c4\\cmTC_22cf7.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-lw1dl4\\cmTC_805c5.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-j3l8c4\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_22cf7.dir\\Debug\\cmTC_22cf7.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-lw1dl4\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_805c5.dir\\Debug\\cmTC_805c5.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_22cf7.dir\\Debug\\cmTC_22cf7.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_22cf7.dir\\Debug\\cmTC_22cf7.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_805c5.dir\\Debug\\cmTC_805c5.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_805c5.dir\\Debug\\cmTC_805c5.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_22cf7.dir\\Debug\\\\" /Fd"cmTC_22cf7.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_805c5.dir\\Debug\\\\" /Fd"cmTC_805c5.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.44.35222 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_22cf7.dir\\Debug\\\\" /Fd"cmTC_22cf7.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /Fo"cmTC_805c5.dir\\Debug\\\\" /Fd"cmTC_805c5.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-j3l8c4\\Debug\\cmTC_22cf7.exe" /INCREMENTAL /ILK:"cmTC_22cf7.dir\\Debug\\cmTC_22cf7.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-j3l8c4/Debug/cmTC_22cf7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-j3l8c4/Debug/cmTC_22cf7.lib" /MACHINE:X64  /machine:x64 cmTC_22cf7.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_22cf7.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-j3l8c4\\Debug\\cmTC_22cf7.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-lw1dl4\\Debug\\cmTC_805c5.exe" /INCREMENTAL /ILK:"cmTC_805c5.dir\\Debug\\cmTC_805c5.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-lw1dl4/Debug/cmTC_805c5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-lw1dl4/Debug/cmTC_805c5.lib" /MACHINE:X64  /machine:x64 cmTC_805c5.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_805c5.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-lw1dl4\\Debug\\cmTC_805c5.exe
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_22cf7.dir\\Debug\\cmTC_22cf7.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_22cf7.dir\\Debug\\cmTC_22cf7.tlog\\cmTC_22cf7.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-j3l8c4\\cmTC_22cf7.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_805c5.dir\\Debug\\cmTC_805c5.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_805c5.dir\\Debug\\cmTC_805c5.tlog\\cmTC_805c5.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-lw1dl4\\cmTC_805c5.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.26
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.24
         
       exitCode: 0
   -
@@ -1812,8 +1812,8 @@ events:
       - "CMakeLists.txt:7 (find_package)"
     description: "Detecting C OpenMP compiler info"
     directories:
-      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-hgjx2t"
-      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-hgjx2t"
+      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tvr38s"
+      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tvr38s"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1822,39 +1822,39 @@ events:
       variable: "OpenMP_COMPILE_RESULT_C_openmp"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-hgjx2t'
+        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tvr38s'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c8226.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a8561.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:03.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:36.
         
-        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hgjx2t\\cmTC_c8226.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tvr38s\\cmTC_a8561.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hgjx2t\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_c8226.dir\\Debug\\cmTC_c8226.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tvr38s\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_a8561.dir\\Debug\\cmTC_a8561.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_c8226.dir\\Debug\\cmTC_c8226.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_c8226.dir\\Debug\\cmTC_c8226.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_a8561.dir\\Debug\\cmTC_a8561.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_a8561.dir\\Debug\\cmTC_a8561.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /openmp /Fo"cmTC_c8226.dir\\Debug\\\\" /Fd"cmTC_c8226.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hgjx2t\\OpenMPTryFlag.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /openmp /Fo"cmTC_a8561.dir\\Debug\\\\" /Fd"cmTC_a8561.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tvr38s\\OpenMPTryFlag.c"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.44.35222 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /openmp /Fo"cmTC_c8226.dir\\Debug\\\\" /Fd"cmTC_c8226.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hgjx2t\\OpenMPTryFlag.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /openmp /Fo"cmTC_a8561.dir\\Debug\\\\" /Fd"cmTC_a8561.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tvr38s\\OpenMPTryFlag.c"
           OpenMPTryFlag.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hgjx2t\\Debug\\cmTC_c8226.exe" /INCREMENTAL /ILK:"cmTC_c8226.dir\\Debug\\cmTC_c8226.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-hgjx2t/Debug/cmTC_c8226.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-hgjx2t/Debug/cmTC_c8226.lib" /MACHINE:X64  /machine:x64 cmTC_c8226.dir\\Debug\\OpenMPTryFlag.obj
-          cmTC_c8226.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hgjx2t\\Debug\\cmTC_c8226.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tvr38s\\Debug\\cmTC_a8561.exe" /INCREMENTAL /ILK:"cmTC_a8561.dir\\Debug\\cmTC_a8561.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tvr38s/Debug/cmTC_a8561.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tvr38s/Debug/cmTC_a8561.lib" /MACHINE:X64  /machine:x64 cmTC_a8561.dir\\Debug\\OpenMPTryFlag.obj
+          cmTC_a8561.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tvr38s\\Debug\\cmTC_a8561.exe
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_c8226.dir\\Debug\\cmTC_c8226.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_c8226.dir\\Debug\\cmTC_c8226.tlog\\cmTC_c8226.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-hgjx2t\\cmTC_c8226.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_a8561.dir\\Debug\\cmTC_a8561.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_a8561.dir\\Debug\\cmTC_a8561.tlog\\cmTC_a8561.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tvr38s\\cmTC_a8561.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.36
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.40
         
       exitCode: 0
   -
@@ -1865,8 +1865,8 @@ events:
       - "CMakeLists.txt:7 (find_package)"
     description: "Detecting CXX OpenMP compiler info"
     directories:
-      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-4a81r9"
-      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-4a81r9"
+      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-sh5zke"
+      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-sh5zke"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1875,39 +1875,39 @@ events:
       variable: "OpenMP_COMPILE_RESULT_CXX_openmp"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-4a81r9'
+        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-sh5zke'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_1e97f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_67ec6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:05.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:39.
         
-        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4a81r9\\cmTC_1e97f.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-sh5zke\\cmTC_67ec6.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4a81r9\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_1e97f.dir\\Debug\\cmTC_1e97f.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-sh5zke\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_67ec6.dir\\Debug\\cmTC_67ec6.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_1e97f.dir\\Debug\\cmTC_1e97f.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_1e97f.dir\\Debug\\cmTC_1e97f.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_67ec6.dir\\Debug\\cmTC_67ec6.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_67ec6.dir\\Debug\\cmTC_67ec6.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /Fo"cmTC_1e97f.dir\\Debug\\\\" /Fd"cmTC_1e97f.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4a81r9\\OpenMPTryFlag.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /Fo"cmTC_67ec6.dir\\Debug\\\\" /Fd"cmTC_67ec6.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-sh5zke\\OpenMPTryFlag.cpp"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.44.35222 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /Fo"cmTC_1e97f.dir\\Debug\\\\" /Fd"cmTC_1e97f.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4a81r9\\OpenMPTryFlag.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /Fo"cmTC_67ec6.dir\\Debug\\\\" /Fd"cmTC_67ec6.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-sh5zke\\OpenMPTryFlag.cpp"
           OpenMPTryFlag.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4a81r9\\Debug\\cmTC_1e97f.exe" /INCREMENTAL /ILK:"cmTC_1e97f.dir\\Debug\\cmTC_1e97f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-4a81r9/Debug/cmTC_1e97f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-4a81r9/Debug/cmTC_1e97f.lib" /MACHINE:X64  /machine:x64 cmTC_1e97f.dir\\Debug\\OpenMPTryFlag.obj
-          cmTC_1e97f.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4a81r9\\Debug\\cmTC_1e97f.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-sh5zke\\Debug\\cmTC_67ec6.exe" /INCREMENTAL /ILK:"cmTC_67ec6.dir\\Debug\\cmTC_67ec6.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-sh5zke/Debug/cmTC_67ec6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-sh5zke/Debug/cmTC_67ec6.lib" /MACHINE:X64  /machine:x64 cmTC_67ec6.dir\\Debug\\OpenMPTryFlag.obj
+          cmTC_67ec6.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-sh5zke\\Debug\\cmTC_67ec6.exe
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_1e97f.dir\\Debug\\cmTC_1e97f.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_1e97f.dir\\Debug\\cmTC_1e97f.tlog\\cmTC_1e97f.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4a81r9\\cmTC_1e97f.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_67ec6.dir\\Debug\\cmTC_67ec6.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_67ec6.dir\\Debug\\cmTC_67ec6.tlog\\cmTC_67ec6.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-sh5zke\\cmTC_67ec6.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.44
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.33
         
       exitCode: 0
   -
@@ -1918,8 +1918,8 @@ events:
       - "CMakeLists.txt:7 (find_package)"
     description: "Detecting C OpenMP version"
     directories:
-      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tx4n82"
-      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tx4n82"
+      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tm7hvv"
+      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tm7hvv"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1928,39 +1928,39 @@ events:
       variable: "OpenMP_SPECTEST_C_"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tx4n82'
+        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tm7hvv'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5ae80.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_48351.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:07.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:40.
         
-        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tx4n82\\cmTC_5ae80.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tm7hvv\\cmTC_48351.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tx4n82\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_5ae80.dir\\Debug\\cmTC_5ae80.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tm7hvv\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_48351.dir\\Debug\\cmTC_48351.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_5ae80.dir\\Debug\\cmTC_5ae80.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_5ae80.dir\\Debug\\cmTC_5ae80.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_48351.dir\\Debug\\cmTC_48351.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_48351.dir\\Debug\\cmTC_48351.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /openmp /Fo"cmTC_5ae80.dir\\Debug\\\\" /Fd"cmTC_5ae80.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tx4n82\\OpenMPCheckVersion.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /openmp /Fo"cmTC_48351.dir\\Debug\\\\" /Fd"cmTC_48351.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tm7hvv\\OpenMPCheckVersion.c"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.44.35222 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /openmp /Fo"cmTC_5ae80.dir\\Debug\\\\" /Fd"cmTC_5ae80.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tx4n82\\OpenMPCheckVersion.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /openmp /Fo"cmTC_48351.dir\\Debug\\\\" /Fd"cmTC_48351.dir\\Debug\\vc143.pdb" /external:W1 /TC /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tm7hvv\\OpenMPCheckVersion.c"
           OpenMPCheckVersion.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tx4n82\\Debug\\cmTC_5ae80.exe" /INCREMENTAL /ILK:"cmTC_5ae80.dir\\Debug\\cmTC_5ae80.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tx4n82/Debug/cmTC_5ae80.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tx4n82/Debug/cmTC_5ae80.lib" /MACHINE:X64  /machine:x64 cmTC_5ae80.dir\\Debug\\OpenMPCheckVersion.obj
-          cmTC_5ae80.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tx4n82\\Debug\\cmTC_5ae80.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tm7hvv\\Debug\\cmTC_48351.exe" /INCREMENTAL /ILK:"cmTC_48351.dir\\Debug\\cmTC_48351.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tm7hvv/Debug/cmTC_48351.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-tm7hvv/Debug/cmTC_48351.lib" /MACHINE:X64  /machine:x64 cmTC_48351.dir\\Debug\\OpenMPCheckVersion.obj
+          cmTC_48351.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tm7hvv\\Debug\\cmTC_48351.exe
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_5ae80.dir\\Debug\\cmTC_5ae80.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_5ae80.dir\\Debug\\cmTC_5ae80.tlog\\cmTC_5ae80.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tx4n82\\cmTC_5ae80.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_48351.dir\\Debug\\cmTC_48351.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_48351.dir\\Debug\\cmTC_48351.tlog\\cmTC_48351.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-tm7hvv\\cmTC_48351.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.38
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.24
         
       exitCode: 0
   -
@@ -1971,8 +1971,8 @@ events:
       - "CMakeLists.txt:7 (find_package)"
     description: "Detecting CXX OpenMP version"
     directories:
-      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-p29vlf"
-      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-p29vlf"
+      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-4fr574"
+      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-4fr574"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -1981,39 +1981,39 @@ events:
       variable: "OpenMP_SPECTEST_CXX_"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-p29vlf'
+        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-4fr574'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3d215.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_26180.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:10.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:42.
         
-        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-p29vlf\\cmTC_3d215.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4fr574\\cmTC_26180.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-p29vlf\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_3d215.dir\\Debug\\cmTC_3d215.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4fr574\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_26180.dir\\Debug\\cmTC_26180.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_3d215.dir\\Debug\\cmTC_3d215.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_3d215.dir\\Debug\\cmTC_3d215.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_26180.dir\\Debug\\cmTC_26180.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_26180.dir\\Debug\\cmTC_26180.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /Fo"cmTC_3d215.dir\\Debug\\\\" /Fd"cmTC_3d215.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-p29vlf\\OpenMPCheckVersion.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /Fo"cmTC_26180.dir\\Debug\\\\" /Fd"cmTC_26180.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4fr574\\OpenMPCheckVersion.cpp"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.44.35222 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /Fo"cmTC_3d215.dir\\Debug\\\\" /Fd"cmTC_3d215.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-p29vlf\\OpenMPCheckVersion.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D _MBCS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GR /openmp /Fo"cmTC_26180.dir\\Debug\\\\" /Fd"cmTC_26180.dir\\Debug\\vc143.pdb" /external:W1 /TP /errorReport:queue "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4fr574\\OpenMPCheckVersion.cpp"
           OpenMPCheckVersion.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-p29vlf\\Debug\\cmTC_3d215.exe" /INCREMENTAL /ILK:"cmTC_3d215.dir\\Debug\\cmTC_3d215.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-p29vlf/Debug/cmTC_3d215.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-p29vlf/Debug/cmTC_3d215.lib" /MACHINE:X64  /machine:x64 cmTC_3d215.dir\\Debug\\OpenMPCheckVersion.obj
-          cmTC_3d215.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-p29vlf\\Debug\\cmTC_3d215.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4fr574\\Debug\\cmTC_26180.exe" /INCREMENTAL /ILK:"cmTC_26180.dir\\Debug\\cmTC_26180.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-4fr574/Debug/cmTC_26180.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-4fr574/Debug/cmTC_26180.lib" /MACHINE:X64  /machine:x64 cmTC_26180.dir\\Debug\\OpenMPCheckVersion.obj
+          cmTC_26180.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4fr574\\Debug\\cmTC_26180.exe
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_3d215.dir\\Debug\\cmTC_3d215.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_3d215.dir\\Debug\\cmTC_3d215.tlog\\cmTC_3d215.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-p29vlf\\cmTC_3d215.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_26180.dir\\Debug\\cmTC_26180.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_26180.dir\\Debug\\cmTC_26180.tlog\\cmTC_26180.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-4fr574\\cmTC_26180.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.37
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:01.25
         
       exitCode: 0
   -
@@ -5221,7 +5221,7 @@ events:
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:53 (__determine_compiler_id_test)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCUDACompiler.cmake:163 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:30 (enable_language)"
+      - "CMakeLists.txt:31 (enable_language)"
     mode: "file"
     variable: "src_in"
     description: "Path to a file."
@@ -5320,7 +5320,7 @@ events:
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCompilerId.cmake:53 (__determine_compiler_id_test)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCUDACompiler.cmake:163 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:30 (enable_language)"
+      - "CMakeLists.txt:31 (enable_language)"
     message: |
       Compiling the CUDA compiler identification source file "CMakeCUDACompilerId.cu" succeeded.
       Compiler:  
@@ -5330,7 +5330,7 @@ events:
       The output was:
       0
       ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework
-      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:15.
+      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:48.
       
       ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
       PrepareForBuild:
@@ -5346,7 +5346,7 @@ events:
       CudaBuildCore:
         Compiling CUDA source file CMakeCUDACompilerId.cu...
         ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug".
-        cmd.exe /C "C:\\Users\\79960\\AppData\\Local\\Temp\\tmp1489e82642e34e3996544e201885dbb4.cmd"
+        cmd.exe /C "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpf6f2d0445ce74fadaf9504969b890a2f.cmd"
         "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe" -gencode=arch=compute_75,code=\\"sm_75,compute_75\\" --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu   -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include" -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"  -G   --keep-dir CompilerIdCUDA\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart hybrid -v -allow-unsupported-compiler -g  -D_MBCS -Xcompiler "/EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/FdDebug\\vc143.pdb" -o C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug\\CMakeCUDACompilerId.cu.obj "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu"
         
         C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA>"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe" -gencode=arch=compute_75,code=\\"sm_75,compute_75\\" --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu   -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include" -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"  -G   --keep-dir CompilerIdCUDA\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart hybrid -v -allow-unsupported-compiler -g  -D_MBCS -Xcompiler "/EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/FdDebug\\vc143.pdb" -o C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug\\CMakeCUDACompilerId.cu.obj "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" 
@@ -5369,23 +5369,23 @@ events:
         #$ CUDAFE_FLAGS=--sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10"
         #$ PTXAS_FLAGS=
         CMakeCUDACompilerId.cu
-        #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-8.res: [-D__CUDA_ARCH_LIST__=750 -nologo -E -TP -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]
-        #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-8.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-6_CMakeCUDACompilerId.cpp4.ii" 
+        #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-8.res: [-D__CUDA_ARCH_LIST__=750 -nologo -E -TP -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]
+        #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-8.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-6_CMakeCUDACompilerId.cpp4.ii" 
         CMakeCUDACompilerId.cu
-        #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-8.res
-        #$ cudafe++ --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10" --m64 --parse_templates --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_module_id_file --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-5_CMakeCUDACompilerId.module_id" "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-6_CMakeCUDACompilerId.cpp4.ii" 
-        #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-10.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -E -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]
-        #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-10.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-9_CMakeCUDACompilerId.cpp1.ii" 
+        #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-8.res
+        #$ cudafe++ --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10" --m64 --parse_templates --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_module_id_file --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-5_CMakeCUDACompilerId.module_id" "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-6_CMakeCUDACompilerId.cpp4.ii" 
+        #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-10.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -E -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]
+        #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-10.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-9_CMakeCUDACompilerId.cpp1.ii" 
         CMakeCUDACompilerId.cu
-        #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-10.res
-        #$ ""%CICC_PATH%\\cicc" --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10"  -arch compute_75 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "tmpxft_000050dc_00000000-4_CMakeCUDACompilerId.fatbin.c" -g -O0 -tused --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-5_CMakeCUDACompilerId.module_id" --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.c" --stub_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.gpu"  "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-9_CMakeCUDACompilerId.cpp1.ii" -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.ptx""
-        #$ ptxas -arch=sm_75 -m64 -g --dont-merge-basicblocks --return-at-end "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.ptx"  -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-11_CMakeCUDACompilerId.sm_75.cubin" 
-        #$ fatbinary -64 --ident="C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --cmdline="-g --dont-merge-basicblocks --return-at-end " --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -g "--image3=kind=elf,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-11_CMakeCUDACompilerId.sm_75.cubin" "--image3=kind=ptx,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.ptx" --embedded-fatbin="C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-4_CMakeCUDACompilerId.fatbin.c" 
-        #$ erase C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-4_CMakeCUDACompilerId.fatbin
-        #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-12.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -c -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"     -Zi "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" ]
-        #$ cl.exe @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-12.res" -Fo"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CompilerIdCUDA/x64/Debug/CMakeCUDACompilerId.cu.obj" 
-        tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.cpp
-        #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-12.res
+        #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-10.res
+        #$ ""%CICC_PATH%\\cicc" --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10"  -arch compute_75 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "tmpxft_000065d8_00000000-4_CMakeCUDACompilerId.fatbin.c" -g -O0 -tused --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-5_CMakeCUDACompilerId.module_id" --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.c" --stub_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.gpu"  "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-9_CMakeCUDACompilerId.cpp1.ii" -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.ptx""
+        #$ ptxas -arch=sm_75 -m64 -g --dont-merge-basicblocks --return-at-end "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.ptx"  -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-11_CMakeCUDACompilerId.sm_75.cubin" 
+        #$ fatbinary -64 --ident="C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --cmdline="-g --dont-merge-basicblocks --return-at-end " --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -g "--image3=kind=elf,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-11_CMakeCUDACompilerId.sm_75.cubin" "--image3=kind=ptx,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.ptx" --embedded-fatbin="C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-4_CMakeCUDACompilerId.fatbin.c" 
+        #$ erase C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-4_CMakeCUDACompilerId.fatbin
+        #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-12.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -c -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"     -Zi "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" ]
+        #$ cl.exe @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-12.res" -Fo"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CompilerIdCUDA/x64/Debug/CMakeCUDACompilerId.cu.obj" 
+        tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.cpp
+        #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-12.res
       ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).
       Link:
         C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCUDA.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\lib\\x64" cudart_static.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCUDA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCUDA.lib" /MACHINE:X64 "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug\\CMakeCUDACompilerId.cu.obj"
@@ -5410,7 +5410,7 @@ events:
           ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 1
           ╨Ю╤И╨╕╨▒╨╛╨║: 0
       
-      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.08
+      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.00
       
       
       Compilation of the CUDA compiler identification source "CMakeCUDACompilerId.cu" produced "CompilerIdCUDA.exe"
@@ -5432,7 +5432,7 @@ events:
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:65 (__resolve_tool_path)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeFindBinUtils.cmake:104 (__resolve_linker_path)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCUDACompiler.cmake:186 (include)"
-      - "CMakeLists.txt:30 (enable_language)"
+      - "CMakeLists.txt:31 (enable_language)"
     mode: "program"
     variable: "_CMAKE_TOOL_WITH_PATH"
     description: "Path to a program."
@@ -5777,7 +5777,7 @@ events:
     backtrace:
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/Internal/CMakeNVCCParseImplicitInfo.cmake:136 (message)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCUDACompiler.cmake:295 (cmake_nvcc_parse_implicit_info)"
-      - "CMakeLists.txt:30 (enable_language)"
+      - "CMakeLists.txt:31 (enable_language)"
     message: |
       Parsed CUDA nvcc implicit link information:
         found 'PATH=' string: [C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../nvvm/bin;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../lib;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\x64;;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\x86;;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ide;C:\\Program Files (x86)\\HTML Help Workshop;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319\\;C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin;C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64;C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\x64;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Python312\\Scripts\\;C:\\Python312\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\dotnet\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\dotnet\\;C:\\Program Files\\WorldPainter;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\AmneziaWG\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR;C:\\Program Files\\nodejs\\;C:\\Program Files\\WireGuard\\;c:\\Program Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.0\\;C:\\Users\\79960\\scoop\\shims;C:\\Users\\79960\\AppData\\Local\\pnpm;C:\\Users\\79960\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\79960\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm Community Edition 2021.3\\bin;C:\\Users\\79960\\.dotnet\\tools;C:\\Users\\79960\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Java\\jdk-21\\bin;C:\\Users\\79960\\AppData\\Local\\Muse Hub\\lib;C:\\Program Files\\nodejs;C:\\Users\\79960\\AppData\\Roaming\\npm;C:\\Program Files\\Git\\bin\\git.exe;C:\\Users\\79960\\AppData\\Local\\Programs\\CLion 2025.2.4\\bin;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg;]
@@ -5785,7 +5785,7 @@ events:
         found 'INCLUDES=' string: ["-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"  ]
         found 'SYSTEM_INCLUDES=' string: []
         considering line: [╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework]
-        considering line: [╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:15.]
+        considering line: [╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:48.]
         considering line: [╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).]
         considering line: [PrepareForBuild:]
         considering line: [  ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "Debug\\".]
@@ -5800,28 +5800,28 @@ events:
         considering line: [CudaBuildCore:]
         considering line: [  Compiling CUDA source file CMakeCUDACompilerId.cu...]
         considering line: [  ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug".]
-        considering line: [  cmd.exe /C "C:\\Users\\79960\\AppData\\Local\\Temp\\tmp1489e82642e34e3996544e201885dbb4.cmd"]
+        considering line: [  cmd.exe /C "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpf6f2d0445ce74fadaf9504969b890a2f.cmd"]
         considering line: [  "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe" -gencode=arch=compute_75,code=\\"sm_75,compute_75\\" --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu   -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include" -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"  -G   --keep-dir CompilerIdCUDA\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart hybrid -v -allow-unsupported-compiler -g  -D_MBCS -Xcompiler "/EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/FdDebug\\vc143.pdb" -o C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug\\CMakeCUDACompilerId.cu.obj "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu"]
         considering line: [  ]
         considering line: [  C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA>"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe" -gencode=arch=compute_75,code=\\"sm_75,compute_75\\" --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu   -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include" -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"  -G   --keep-dir CompilerIdCUDA\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart hybrid -v -allow-unsupported-compiler -g  -D_MBCS -Xcompiler "/EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/FdDebug\\vc143.pdb" -o C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug\\CMakeCUDACompilerId.cu.obj "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]
         considering line: [                                      CMakeCUDACompilerId.cu]
-        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-8.res: [-D__CUDA_ARCH_LIST__=750 -nologo -E -TP -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]]
-        considering line: [  #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-8.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-6_CMakeCUDACompilerId.cpp4.ii" ]
+        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-8.res: [-D__CUDA_ARCH_LIST__=750 -nologo -E -TP -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]]
+        considering line: [  #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-8.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-6_CMakeCUDACompilerId.cpp4.ii" ]
         considering line: [  CMakeCUDACompilerId.cu]
-        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-8.res]
-        considering line: [  #$ cudafe++ --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10" --m64 --parse_templates --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_module_id_file --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-5_CMakeCUDACompilerId.module_id" "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-6_CMakeCUDACompilerId.cpp4.ii" ]
-        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-10.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -E -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]]
-        considering line: [  #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-10.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-9_CMakeCUDACompilerId.cpp1.ii" ]
+        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-8.res]
+        considering line: [  #$ cudafe++ --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10" --m64 --parse_templates --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_module_id_file --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-5_CMakeCUDACompilerId.module_id" "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-6_CMakeCUDACompilerId.cpp4.ii" ]
+        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-10.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -E -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]]
+        considering line: [  #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-10.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-9_CMakeCUDACompilerId.cpp1.ii" ]
         considering line: [  CMakeCUDACompilerId.cu]
-        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-10.res]
-        considering line: [  #$ ""%CICC_PATH%\\cicc" --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10"  -arch compute_75 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "tmpxft_000050dc_00000000-4_CMakeCUDACompilerId.fatbin.c" -g -O0 -tused --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-5_CMakeCUDACompilerId.module_id" --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.c" --stub_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.gpu"  "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-9_CMakeCUDACompilerId.cpp1.ii" -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.ptx""]
-        considering line: [  #$ ptxas -arch=sm_75 -m64 -g --dont-merge-basicblocks --return-at-end "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.ptx"  -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-11_CMakeCUDACompilerId.sm_75.cubin" ]
-        considering line: [  #$ fatbinary -64 --ident="C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --cmdline="-g --dont-merge-basicblocks --return-at-end " --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -g "--image3=kind=elf,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-11_CMakeCUDACompilerId.sm_75.cubin" "--image3=kind=ptx,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.ptx" --embedded-fatbin="C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-4_CMakeCUDACompilerId.fatbin.c" ]
-        considering line: [  #$ erase C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-4_CMakeCUDACompilerId.fatbin]
-        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-12.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -c -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"     -Zi "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" ]]
-        considering line: [  #$ cl.exe @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-12.res" -Fo"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CompilerIdCUDA/x64/Debug/CMakeCUDACompilerId.cu.obj" ]
-        considering line: [  tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.cpp]
-        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-12.res]
+        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-10.res]
+        considering line: [  #$ ""%CICC_PATH%\\cicc" --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10"  -arch compute_75 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "tmpxft_000065d8_00000000-4_CMakeCUDACompilerId.fatbin.c" -g -O0 -tused --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-5_CMakeCUDACompilerId.module_id" --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.c" --stub_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.gpu"  "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-9_CMakeCUDACompilerId.cpp1.ii" -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.ptx""]
+        considering line: [  #$ ptxas -arch=sm_75 -m64 -g --dont-merge-basicblocks --return-at-end "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.ptx"  -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-11_CMakeCUDACompilerId.sm_75.cubin" ]
+        considering line: [  #$ fatbinary -64 --ident="C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --cmdline="-g --dont-merge-basicblocks --return-at-end " --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -g "--image3=kind=elf,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-11_CMakeCUDACompilerId.sm_75.cubin" "--image3=kind=ptx,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.ptx" --embedded-fatbin="C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-4_CMakeCUDACompilerId.fatbin.c" ]
+        considering line: [  #$ erase C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-4_CMakeCUDACompilerId.fatbin]
+        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-12.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -c -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"     -Zi "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" ]]
+        considering line: [  #$ cl.exe @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-12.res" -Fo"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CompilerIdCUDA/x64/Debug/CMakeCUDACompilerId.cu.obj" ]
+        considering line: [  tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.cpp]
+        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-12.res]
         considering line: [╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).]
         considering line: [Link:]
         considering line: [  C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCUDA.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\lib\\x64" cudart_static.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCUDA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCUDA.lib" /MACHINE:X64 "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug\\CMakeCUDACompilerId.cu.obj"]
@@ -5845,7 +5845,7 @@ events:
         considering line: [ ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ /NODEFAULTLIB:library [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA.vcxproj]]
         considering line: [    ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 1]
         considering line: [    ╨Ю╤И╨╕╨▒╨╛╨║: 0]
-        considering line: [╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.08]
+        considering line: [╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.00]
         considering line: []
       
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
@@ -5881,7 +5881,7 @@ events:
     backtrace:
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/Internal/CMakeNVCCParseImplicitInfo.cmake:165 (message)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCUDACompiler.cmake:295 (cmake_nvcc_parse_implicit_info)"
-      - "CMakeLists.txt:30 (enable_language)"
+      - "CMakeLists.txt:31 (enable_language)"
     message: |
       Parsed CUDA nvcc include information:
         found 'PATH=' string: [C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../nvvm/bin;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../lib;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\x64;;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\x86;;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\tools;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\ide;C:\\Program Files (x86)\\HTML Help Workshop;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64;C:\\WINDOWS\\Microsoft.NET\\Framework64\\v4.0.30319\\;C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin;C:\\WINDOWS\\Microsoft.NET\\Framework\\v4.0.30319\\;;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\VC\\VCPackages;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TestWindow;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\bin\\Roslyn;C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v10.0A\\bin\\NETFX 4.8 Tools\\x64\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\DiagnosticsHub\\Collector;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\\\x64;C:\\Program Files (x86)\\Windows Kits\\10\\bin\\\\x64;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\\\MSBuild\\Current\\Bin\\amd64;C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\Tools\\;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\x64;C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Python312\\Scripts\\;C:\\Python312\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\dotnet\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\dotnet\\;C:\\Program Files\\WorldPainter;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\AmneziaWG\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR;C:\\Program Files\\nodejs\\;C:\\Program Files\\WireGuard\\;c:\\Program Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\NVIDIA Corporation\\Nsight Compute 2025.4.0\\;C:\\Users\\79960\\scoop\\shims;C:\\Users\\79960\\AppData\\Local\\pnpm;C:\\Users\\79960\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\79960\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\JetBrains\\PyCharm Community Edition 2021.3\\bin;C:\\Users\\79960\\.dotnet\\tools;C:\\Users\\79960\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Java\\jdk-21\\bin;C:\\Users\\79960\\AppData\\Local\\Muse Hub\\lib;C:\\Program Files\\nodejs;C:\\Users\\79960\\AppData\\Roaming\\npm;C:\\Program Files\\Git\\bin\\git.exe;C:\\Users\\79960\\AppData\\Local\\Programs\\CLion 2025.2.4\\bin;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\vcpkg;]
@@ -5889,7 +5889,7 @@ events:
         found 'INCLUDES=' string: ["-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"  ]
         found 'SYSTEM_INCLUDES=' string: []
         considering line: [╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework]
-        considering line: [╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:15.]
+        considering line: [╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:48.]
         considering line: [╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).]
         considering line: [PrepareForBuild:]
         considering line: [  ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "Debug\\".]
@@ -5904,28 +5904,28 @@ events:
         considering line: [CudaBuildCore:]
         considering line: [  Compiling CUDA source file CMakeCUDACompilerId.cu...]
         considering line: [  ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug".]
-        considering line: [  cmd.exe /C "C:\\Users\\79960\\AppData\\Local\\Temp\\tmp1489e82642e34e3996544e201885dbb4.cmd"]
+        considering line: [  cmd.exe /C "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpf6f2d0445ce74fadaf9504969b890a2f.cmd"]
         considering line: [  "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe" -gencode=arch=compute_75,code=\\"sm_75,compute_75\\" --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu   -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include" -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"  -G   --keep-dir CompilerIdCUDA\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart hybrid -v -allow-unsupported-compiler -g  -D_MBCS -Xcompiler "/EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/FdDebug\\vc143.pdb" -o C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug\\CMakeCUDACompilerId.cu.obj "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu"]
         considering line: [  ]
         considering line: [  C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA>"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe" -gencode=arch=compute_75,code=\\"sm_75,compute_75\\" --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu   -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include" -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"  -G   --keep-dir CompilerIdCUDA\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart hybrid -v -allow-unsupported-compiler -g  -D_MBCS -Xcompiler "/EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/FdDebug\\vc143.pdb" -o C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug\\CMakeCUDACompilerId.cu.obj "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]
         considering line: [                                      CMakeCUDACompilerId.cu]
-        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-8.res: [-D__CUDA_ARCH_LIST__=750 -nologo -E -TP -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]]
-        considering line: [  #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-8.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-6_CMakeCUDACompilerId.cpp4.ii" ]
+        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-8.res: [-D__CUDA_ARCH_LIST__=750 -nologo -E -TP -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]]
+        considering line: [  #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-8.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-6_CMakeCUDACompilerId.cpp4.ii" ]
         considering line: [  CMakeCUDACompilerId.cu]
-        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-8.res]
-        considering line: [  #$ cudafe++ --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10" --m64 --parse_templates --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_module_id_file --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-5_CMakeCUDACompilerId.module_id" "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-6_CMakeCUDACompilerId.cpp4.ii" ]
-        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-10.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -E -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]]
-        considering line: [  #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-10.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-9_CMakeCUDACompilerId.cpp1.ii" ]
+        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-8.res]
+        considering line: [  #$ cudafe++ --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10" --m64 --parse_templates --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" --stub_file_name "tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_module_id_file --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-5_CMakeCUDACompilerId.module_id" "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-6_CMakeCUDACompilerId.cpp4.ii" ]
+        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-10.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -E -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc -D__CUDACC__ -D__NVCC__ -D__CUDACC_DEBUG__  /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"      -D "_MBCS" -D__CUDACC_VER_MAJOR__=13 -D__CUDACC_VER_MINOR__=1 -D__CUDACC_VER_BUILD__=80 -D__CUDA_API_VER_MAJOR__=13 -D__CUDA_API_VER_MINOR__=1 -D__NVCC_DIAG_PRAGMA_SUPPORT__=1 -D__CUDACC_DEVICE_ATOMIC_BUILTINS__=1 -FI "cuda_runtime.h" -Zi "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" ]]
+        considering line: [  #$ cl.exe -D__NV_NO_HOST_COMPILER_CHECK=1 @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-10.res" > "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-9_CMakeCUDACompilerId.cpp1.ii" ]
         considering line: [  CMakeCUDACompilerId.cu]
-        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-10.res]
-        considering line: [  #$ ""%CICC_PATH%\\cicc" --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10"  -arch compute_75 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "tmpxft_000050dc_00000000-4_CMakeCUDACompilerId.fatbin.c" -g -O0 -tused --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-5_CMakeCUDACompilerId.module_id" --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.c" --stub_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.gpu"  "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-9_CMakeCUDACompilerId.cpp1.ii" -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.ptx""]
-        considering line: [  #$ ptxas -arch=sm_75 -m64 -g --dont-merge-basicblocks --return-at-end "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.ptx"  -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-11_CMakeCUDACompilerId.sm_75.cubin" ]
-        considering line: [  #$ fatbinary -64 --ident="C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --cmdline="-g --dont-merge-basicblocks --return-at-end " --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -g "--image3=kind=elf,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-11_CMakeCUDACompilerId.sm_75.cubin" "--image3=kind=ptx,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.ptx" --embedded-fatbin="C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-4_CMakeCUDACompilerId.fatbin.c" ]
-        considering line: [  #$ erase C:/Users/79960/AppData/Local/Temp/tmpxft_000050dc_00000000-4_CMakeCUDACompilerId.fatbin]
-        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-12.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -c -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"     -Zi "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" ]]
-        considering line: [  #$ cl.exe @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-12.res" -Fo"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CompilerIdCUDA/x64/Debug/CMakeCUDACompilerId.cu.obj" ]
-        considering line: [  tmpxft_000050dc_00000000-7_CMakeCUDACompilerId.cudafe1.cpp]
-        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000050dc_00000000-12.res]
+        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-10.res]
+        considering line: [  #$ ""%CICC_PATH%\\cicc" --ms_c++14 --static-host-stub --device-hidden-visibility --microsoft_version=1944 --msvc_target_version=1944 --compiler_bindir "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/../../../../../../.." --sdk_dir "C:/Program Files (x86)/Windows Kits/10/" --display_error_number --orig_src_file_name "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --orig_src_path_name "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CMakeCUDACompilerId.cu" --allow_managed --debug_mode --sdk_dir "C:\\Program Files (x86)\\Windows Kits\\10"  -arch compute_75 -m64 --no-version-ident -ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 --include_file_name "tmpxft_000065d8_00000000-4_CMakeCUDACompilerId.fatbin.c" -g -O0 -tused --module_id_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-5_CMakeCUDACompilerId.module_id" --gen_c_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.c" --stub_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.stub.c" --gen_device_file_name "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.gpu"  "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-9_CMakeCUDACompilerId.cpp1.ii" -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.ptx""]
+        considering line: [  #$ ptxas -arch=sm_75 -m64 -g --dont-merge-basicblocks --return-at-end "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.ptx"  -o "C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-11_CMakeCUDACompilerId.sm_75.cubin" ]
+        considering line: [  #$ fatbinary -64 --ident="C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CMakeCUDACompilerId.cu" --cmdline="-g --dont-merge-basicblocks --return-at-end " --cicc-cmdline="-ftz=0 -prec_div=1 -prec_sqrt=1 -fmad=1 " -g "--image3=kind=elf,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-11_CMakeCUDACompilerId.sm_75.cubin" "--image3=kind=ptx,sm=75,file=C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.ptx" --embedded-fatbin="C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-4_CMakeCUDACompilerId.fatbin.c" ]
+        considering line: [  #$ erase C:/Users/79960/AppData/Local/Temp/tmpxft_000065d8_00000000-4_CMakeCUDACompilerId.fatbin]
+        considering line: [  #$ resource file C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-12.res: [-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -c -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc /EHsc /W0 /nologo /Od /FS /Zi /RTC1 /MDd /FdDebug\\vc143.pdb -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" -I"C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v13.1/include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include" "-IC:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin/../include/cccl"     -Zi "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.cpp" ]]
+        considering line: [  #$ cl.exe @"C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-12.res" -Fo"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/4.2.1/CompilerIdCUDA/CompilerIdCUDA/x64/Debug/CMakeCUDACompilerId.cu.obj" ]
+        considering line: [  tmpxft_000065d8_00000000-7_CMakeCUDACompilerId.cudafe1.cpp]
+        considering line: [  #$ erase C:\\Users\\79960\\AppData\\Local\\Temp/tmpxft_000065d8_00000000-12.res]
         considering line: [╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).]
         considering line: [Link:]
         considering line: [  C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCUDA.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\lib\\x64" cudart_static.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCUDA.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCUDA.lib" /MACHINE:X64 "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA\\x64\\Debug\\CMakeCUDACompilerId.cu.obj"]
@@ -5949,7 +5949,7 @@ events:
         considering line: [ ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ /NODEFAULTLIB:library [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\4.2.1\\CompilerIdCUDA\\CompilerIdCUDA.vcxproj]]
         considering line: [    ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 1]
         considering line: [    ╨Ю╤И╨╕╨▒╨╛╨║: 0]
-        considering line: [╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.08]
+        considering line: [╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.00]
         considering line: []
       
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
@@ -5985,12 +5985,12 @@ events:
     backtrace:
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeTestCUDACompiler.cmake:19 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:30 (enable_language)"
+      - "CMakeLists.txt:31 (enable_language)"
     checks:
       - "Detecting CUDA compiler ABI info"
     directories:
-      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd"
-      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd"
+      source: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f"
+      binary: "C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f"
     cmakeVariables:
       CMAKE_CUDA_ARCHITECTURES: "75"
       CMAKE_CUDA_FLAGS: "-D_WINDOWS -Xcompiler=\" /GR /EHsc\""
@@ -6001,69 +6001,69 @@ events:
       variable: "CMAKE_CUDA_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd'
+        Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9f45a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_f987b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:19.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:52.
         
-        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_9f45a.dir\\Debug\\cmTC_9f45a.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_f987b.dir\\Debug\\cmTC_f987b.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_9f45a.dir\\Debug\\cmTC_9f45a.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_9f45a.dir\\Debug\\cmTC_9f45a.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_f987b.dir\\Debug\\cmTC_f987b.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_f987b.dir\\Debug\\cmTC_f987b.tlog\\unsuccessfulbuild".
         AddCudaCompileDeps:
           C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /D__CUDACC_VER_MAJOR__=13 /D__CUDACC_VER_MINOR__=1 /D_WINDOWS /D_MBCS /DCMAKE_INTDIR="Debug" /D_MBCS /DCMAKE_INTDIR="Debug" /I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\x64" /I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include" /I. /FIcuda_runtime.h /c C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu 
-        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" (1) ╨▓╤Л╨┐╨╛╨╗╨╜╤П╨╡╤В ╤Б╨▒╨╛╤А╨║╤Г "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" (1:2) ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).
+        ╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" (1) ╨▓╤Л╨┐╨╛╨╗╨╜╤П╨╡╤В ╤Б╨▒╨╛╤А╨║╤Г "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" (1:2) ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).
         CudaBuildCore:
           Compiling CUDA source file ..\\..\\..\\..\\..\\..\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu...
-          cmd.exe /C "C:\\Users\\79960\\AppData\\Local\\Temp\\tmp9ee0005f80ee4e9caaea055cdb02086d.cmd"
-          "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe"  --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu    -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"     --keep-dir cmTC_9f45a\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart static --generate-code=arch=compute_75,code=[compute_75,sm_75] -Xcompiler="/EHsc -Zi -Ob0 -v" -g  -D_WINDOWS -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -Xcompiler "/EHsc /W1 /nologo /Od /FS /Zi /RTC1 /MDd /GR" -Xcompiler "/FdcmTC_9f45a.dir\\Debug\\vc143.pdb" -o cmTC_9f45a.dir\\Debug\\CMakeCUDACompilerABI.obj "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu"
+          cmd.exe /C "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpf5c457cd4bc14b9d8fea4e884b29dc9f.cmd"
+          "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe"  --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu    -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"     --keep-dir cmTC_f987b\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart static --generate-code=arch=compute_75,code=[compute_75,sm_75] -Xcompiler="/EHsc -Zi -Ob0 -v" -g  -D_WINDOWS -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -Xcompiler "/EHsc /W1 /nologo /Od /FS /Zi /RTC1 /MDd /GR" -Xcompiler "/FdcmTC_f987b.dir\\Debug\\vc143.pdb" -o cmTC_f987b.dir\\Debug\\CMakeCUDACompilerABI.obj "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu"
           
-          C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd>"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe"  --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu    -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"     --keep-dir cmTC_9f45a\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart static --generate-code=arch=compute_75,code=[compute_75,sm_75] -Xcompiler="/EHsc -Zi -Ob0 -v" -g  -D_WINDOWS -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -Xcompiler "/EHsc /W1 /nologo /Od /FS /Zi /RTC1 /MDd /GR" -Xcompiler "/FdcmTC_9f45a.dir\\Debug\\vc143.pdb" -o cmTC_9f45a.dir\\Debug\\CMakeCUDACompilerABI.obj "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu" 
-        cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
+          C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f>"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe"  --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu    -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"     --keep-dir cmTC_f987b\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart static --generate-code=arch=compute_75,code=[compute_75,sm_75] -Xcompiler="/EHsc -Zi -Ob0 -v" -g  -D_WINDOWS -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -Xcompiler "/EHsc /W1 /nologo /Od /FS /Zi /RTC1 /MDd /GR" -Xcompiler "/FdcmTC_f987b.dir\\Debug\\vc143.pdb" -o cmTC_f987b.dir\\Debug\\CMakeCUDACompilerABI.obj "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu" 
+        cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
           CMakeCUDACompilerABI.cu
-        cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
+        cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
           CMakeCUDACompilerABI.cu
           CMakeCUDACompilerABI.cu
-        cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
-          tmpxft_00002930_00000000-7_CMakeCUDACompilerABI.cudafe1.cpp
-        C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCompilerCUDAArch.h(10): warning C4305: return: ╤Г╤Б╨╡╤З╨╡╨╜╨╕╨╡ ╨╕╨╖ "int" ╨▓ "bool" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).
+        cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
+          tmpxft_00000df0_00000000-7_CMakeCUDACompilerABI.cudafe1.cpp
+        C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCompilerCUDAArch.h(10): warning C4305: return: ╤Г╤Б╨╡╤З╨╡╨╜╨╕╨╡ ╨╕╨╖ "int" ╨▓ "bool" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\Debug\\cmTC_9f45a.exe" /INCREMENTAL /ILK:"cmTC_9f45a.dir\\Debug\\cmTC_9f45a.ilk" /NOLOGO /LIBPATH:"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\lib\\x64" cudadevrt.lib cudart_static.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd/Debug/cmTC_9f45a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd/Debug/cmTC_9f45a.lib" /MACHINE:X64  /machine:x64 -v cmTC_9f45a.dir\\Debug\\CMakeCUDACompilerABI.obj
-        LINK : warning LNK4044: ╨╜╨╡╤А╨░╤Б╨┐╨╛╨╖╨╜╨░╨╜╨╜╤Л╨╣ ╨┐╨░╤А╨░╨╝╨╡╤В╤А "/v"; ╨╕╨│╨╜╨╛╤А╨╕╤А╤Г╨╡╤В╤Б╤П [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
-             ╨б╨╛╨╖╨┤╨░╨╡╤В╤Б╤П ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║╨░ C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd/Debug/cmTC_9f45a.lib ╨╕ ╨╛╨▒╤К╨╡╨║╤В C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd/Debug/cmTC_9f45a.exp
-        LINK : warning LNK4098: ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║╨░ ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О "LIBCMT" ╨║╨╛╨╜╤Д╨╗╨╕╨║╤В╤Г╨╡╤В ╤Б ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨┤╤А╤Г╨│╨╕╤Е ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║; ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ /NODEFAULTLIB:library [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
-          cmTC_9f45a.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\Debug\\cmTC_9f45a.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\Debug\\cmTC_f987b.exe" /INCREMENTAL /ILK:"cmTC_f987b.dir\\Debug\\cmTC_f987b.ilk" /NOLOGO /LIBPATH:"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\lib\\x64" cudadevrt.lib cudart_static.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f/Debug/cmTC_f987b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f/Debug/cmTC_f987b.lib" /MACHINE:X64  /machine:x64 -v cmTC_f987b.dir\\Debug\\CMakeCUDACompilerABI.obj
+        LINK : warning LNK4044: ╨╜╨╡╤А╨░╤Б╨┐╨╛╨╖╨╜╨░╨╜╨╜╤Л╨╣ ╨┐╨░╤А╨░╨╝╨╡╤В╤А "/v"; ╨╕╨│╨╜╨╛╤А╨╕╤А╤Г╨╡╤В╤Б╤П [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
+             ╨б╨╛╨╖╨┤╨░╨╡╤В╤Б╤П ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║╨░ C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f/Debug/cmTC_f987b.lib ╨╕ ╨╛╨▒╤К╨╡╨║╤В C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f/Debug/cmTC_f987b.exp
+        LINK : warning LNK4098: ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║╨░ ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О "LIBCMT" ╨║╨╛╨╜╤Д╨╗╨╕╨║╤В╤Г╨╡╤В ╤Б ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨┤╤А╤Г╨│╨╕╤Е ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║; ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ /NODEFAULTLIB:library [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
+          cmTC_f987b.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\Debug\\cmTC_f987b.exe
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_9f45a.dir\\Debug\\cmTC_9f45a.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_9f45a.dir\\Debug\\cmTC_9f45a.tlog\\cmTC_9f45a.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_f987b.dir\\Debug\\cmTC_f987b.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_f987b.dir\\Debug\\cmTC_f987b.tlog\\cmTC_f987b.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
         
-        "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->
-        "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В CudaBuildCore ) (1:2) ->
+        "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->
+        "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В CudaBuildCore ) (1:2) ->
         (╨ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В CudaBuildCore) -> 
-          cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
-          cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
-          cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
-          C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCompilerCUDAArch.h(10): warning C4305: return: ╤Г╤Б╨╡╤З╨╡╨╜╨╕╨╡ ╨╕╨╖ "int" ╨▓ "bool" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
+          cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
+          cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
+          cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
+          C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCompilerCUDAArch.h(10): warning C4305: return: ╤Г╤Б╨╡╤З╨╡╨╜╨╕╨╡ ╨╕╨╖ "int" ╨▓ "bool" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
         
         
-        "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->
+        "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->
         (╨ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В Link) -> 
-          LINK : warning LNK4044: ╨╜╨╡╤А╨░╤Б╨┐╨╛╨╖╨╜╨░╨╜╨╜╤Л╨╣ ╨┐╨░╤А╨░╨╝╨╡╤В╤А "/v"; ╨╕╨│╨╜╨╛╤А╨╕╤А╤Г╨╡╤В╤Б╤П [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
-          LINK : warning LNK4098: ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║╨░ ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О "LIBCMT" ╨║╨╛╨╜╤Д╨╗╨╕╨║╤В╤Г╨╡╤В ╤Б ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨┤╤А╤Г╨│╨╕╤Е ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║; ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ /NODEFAULTLIB:library [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]
+          LINK : warning LNK4044: ╨╜╨╡╤А╨░╤Б╨┐╨╛╨╖╨╜╨░╨╜╨╜╤Л╨╣ ╨┐╨░╤А╨░╨╝╨╡╤В╤А "/v"; ╨╕╨│╨╜╨╛╤А╨╕╤А╤Г╨╡╤В╤Б╤П [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
+          LINK : warning LNK4098: ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║╨░ ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О "LIBCMT" ╨║╨╛╨╜╤Д╨╗╨╕╨║╤В╤Г╨╡╤В ╤Б ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨┤╤А╤Г╨│╨╕╤Е ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║; ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ /NODEFAULTLIB:library [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]
         
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 6
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.28
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.40
         
       exitCode: 0
   -
@@ -6071,7 +6071,7 @@ events:
     backtrace:
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:217 (message)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeTestCUDACompiler.cmake:19 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:30 (enable_language)"
+      - "CMakeLists.txt:31 (enable_language)"
     message: |
       Parsed CUDA implicit include dir info: rv=start
         warn: unable to parse implicit include dirs!
@@ -6082,78 +6082,78 @@ events:
     backtrace:
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeTestCUDACompiler.cmake:19 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:30 (enable_language)"
+      - "CMakeLists.txt:31 (enable_language)"
     message: |
       Parsed CUDA implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd']
+        ignore line: [Change Dir: 'C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9f45a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n]
+        ignore line: [Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_f987b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n]
         ignore line: [╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.14.23+b0019275e ╨┤╨╗╤П .NET Framework]
-        ignore line: [╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 1:52:19.]
+        ignore line: [╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 19.12.2025 3:27:52.]
         ignore line: []
-        ignore line: [╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).]
+        ignore line: [╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).]
         ignore line: [PrepareForBuild:]
         ignore line: [  ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.]
-        ignore line: [  ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\Debug\\".]
-        ignore line: [  ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_9f45a.dir\\Debug\\cmTC_9f45a.tlog\\".]
+        ignore line: [  ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\Debug\\".]
+        ignore line: [  ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_f987b.dir\\Debug\\cmTC_f987b.tlog\\".]
         ignore line: [InitializeBuildStatus:]
-        ignore line: [  ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_9f45a.dir\\Debug\\cmTC_9f45a.tlog\\unsuccessfulbuild"  ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".]
-        ignore line: [  ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_9f45a.dir\\Debug\\cmTC_9f45a.tlog\\unsuccessfulbuild".]
+        ignore line: [  ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_f987b.dir\\Debug\\cmTC_f987b.tlog\\unsuccessfulbuild"  ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".]
+        ignore line: [  ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_f987b.dir\\Debug\\cmTC_f987b.tlog\\unsuccessfulbuild".]
         ignore line: [AddCudaCompileDeps:]
         ignore line: [  C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /D__CUDACC_VER_MAJOR__=13 /D__CUDACC_VER_MINOR__=1 /D_WINDOWS /D_MBCS /DCMAKE_INTDIR="Debug" /D_MBCS /DCMAKE_INTDIR="Debug" /I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\x64" /I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include" /I. /FIcuda_runtime.h /c C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu ]
-        ignore line: [╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" (1) ╨▓╤Л╨┐╨╛╨╗╨╜╤П╨╡╤В ╤Б╨▒╨╛╤А╨║╤Г "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" (1:2) ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).]
+        ignore line: [╨Я╤А╨╛╨╡╨║╤В "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" (1) ╨▓╤Л╨┐╨╛╨╗╨╜╤П╨╡╤В ╤Б╨▒╨╛╤А╨║╤Г "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" (1:2) ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).]
         ignore line: [CudaBuildCore:]
         ignore line: [  Compiling CUDA source file ..\\..\\..\\..\\..\\..\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu...]
-        ignore line: [  cmd.exe /C "C:\\Users\\79960\\AppData\\Local\\Temp\\tmp9ee0005f80ee4e9caaea055cdb02086d.cmd"]
-        ignore line: [  "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe"  --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu    -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"     --keep-dir cmTC_9f45a\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart static --generate-code=arch=compute_75 code=[compute_75 sm_75] -Xcompiler="/EHsc -Zi -Ob0 -v" -g  -D_WINDOWS -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -Xcompiler "/EHsc /W1 /nologo /Od /FS /Zi /RTC1 /MDd /GR" -Xcompiler "/FdcmTC_9f45a.dir\\Debug\\vc143.pdb" -o cmTC_9f45a.dir\\Debug\\CMakeCUDACompilerABI.obj "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu"]
+        ignore line: [  cmd.exe /C "C:\\Users\\79960\\AppData\\Local\\Temp\\tmpf5c457cd4bc14b9d8fea4e884b29dc9f.cmd"]
+        ignore line: [  "C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe"  --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu    -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"     --keep-dir cmTC_f987b\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart static --generate-code=arch=compute_75 code=[compute_75 sm_75] -Xcompiler="/EHsc -Zi -Ob0 -v" -g  -D_WINDOWS -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -Xcompiler "/EHsc /W1 /nologo /Od /FS /Zi /RTC1 /MDd /GR" -Xcompiler "/FdcmTC_f987b.dir\\Debug\\vc143.pdb" -o cmTC_f987b.dir\\Debug\\CMakeCUDACompilerABI.obj "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu"]
         ignore line: [  ]
-        ignore line: [  C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd>"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe"  --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu    -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"     --keep-dir cmTC_9f45a\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart static --generate-code=arch=compute_75 code=[compute_75 sm_75] -Xcompiler="/EHsc -Zi -Ob0 -v" -g  -D_WINDOWS -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -Xcompiler "/EHsc /W1 /nologo /Od /FS /Zi /RTC1 /MDd /GR" -Xcompiler "/FdcmTC_9f45a.dir\\Debug\\vc143.pdb" -o cmTC_9f45a.dir\\Debug\\CMakeCUDACompilerABI.obj "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu" ]
-        ignore line: [cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
+        ignore line: [  C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f>"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\bin\\nvcc.exe"  --use-local-env -ccbin "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64" -x cu    -I"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\include"     --keep-dir cmTC_f987b\\x64\\Debug  -maxrregcount=0    --machine 64 --compile -cudart static --generate-code=arch=compute_75 code=[compute_75 sm_75] -Xcompiler="/EHsc -Zi -Ob0 -v" -g  -D_WINDOWS -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -D_MBCS -D"CMAKE_INTDIR=\\"Debug\\"" -Xcompiler "/EHsc /W1 /nologo /Od /FS /Zi /RTC1 /MDd /GR" -Xcompiler "/FdcmTC_f987b.dir\\Debug\\vc143.pdb" -o cmTC_f987b.dir\\Debug\\CMakeCUDACompilerABI.obj "C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCUDACompilerABI.cu" ]
+        ignore line: [cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
         ignore line: [  CMakeCUDACompilerABI.cu]
-        ignore line: [cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
+        ignore line: [cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
         ignore line: [  CMakeCUDACompilerABI.cu]
         ignore line: [  CMakeCUDACompilerABI.cu]
-        ignore line: [cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
-        ignore line: [  tmpxft_00002930_00000000-7_CMakeCUDACompilerABI.cudafe1.cpp]
-        ignore line: [C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCompilerCUDAArch.h(10): warning C4305: return: ╤Г╤Б╨╡╤З╨╡╨╜╨╕╨╡ ╨╕╨╖ "int" ╨▓ "bool" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
-        ignore line: [╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).]
+        ignore line: [cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
+        ignore line: [  tmpxft_00000df0_00000000-7_CMakeCUDACompilerABI.cudafe1.cpp]
+        ignore line: [C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCompilerCUDAArch.h(10): warning C4305: return: ╤Г╤Б╨╡╤З╨╡╨╜╨╕╨╡ ╨╕╨╖ "int" ╨▓ "bool" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
+        ignore line: [╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л CudaBuildCore).]
         ignore line: [Link:]
-        ignore line: [  C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\Debug\\cmTC_9f45a.exe" /INCREMENTAL /ILK:"cmTC_9f45a.dir\\Debug\\cmTC_9f45a.ilk" /NOLOGO /LIBPATH:"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\lib\\x64" cudadevrt.lib cudart_static.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd/Debug/cmTC_9f45a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd/Debug/cmTC_9f45a.lib" /MACHINE:X64  /machine:x64 -v cmTC_9f45a.dir\\Debug\\CMakeCUDACompilerABI.obj]
+        ignore line: [  C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\Debug\\cmTC_f987b.exe" /INCREMENTAL /ILK:"cmTC_f987b.dir\\Debug\\cmTC_f987b.ilk" /NOLOGO /LIBPATH:"C:\\Program Files\\NVIDIA GPU Computing Toolkit\\CUDA\\v13.1\\lib\\x64" cudadevrt.lib cudart_static.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f/Debug/cmTC_f987b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f/Debug/cmTC_f987b.lib" /MACHINE:X64  /machine:x64 -v cmTC_f987b.dir\\Debug\\CMakeCUDACompilerABI.obj]
         ignore line: [LINK : warning LNK4044: ╨╜╨╡╤А╨░╤Б╨┐╨╛╨╖╨╜╨░╨╜╨╜╤Л╨╣ ╨┐╨░╤А╨░╨╝╨╡╤В╤А "/v"]
-        ignore line: [ ╨╕╨│╨╜╨╛╤А╨╕╤А╤Г╨╡╤В╤Б╤П [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
-        ignore line: [     ╨б╨╛╨╖╨┤╨░╨╡╤В╤Б╤П ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║╨░ C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd/Debug/cmTC_9f45a.lib ╨╕ ╨╛╨▒╤К╨╡╨║╤В C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-iykwfd/Debug/cmTC_9f45a.exp]
+        ignore line: [ ╨╕╨│╨╜╨╛╤А╨╕╤А╤Г╨╡╤В╤Б╤П [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
+        ignore line: [     ╨б╨╛╨╖╨┤╨░╨╡╤В╤Б╤П ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║╨░ C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f/Debug/cmTC_f987b.lib ╨╕ ╨╛╨▒╤К╨╡╨║╤В C:/Users/79960/CLionProjects/MPI_CUDA/cmake-build-task2-Debug/CMakeFiles/CMakeScratch/TryCompile-ymhj2f/Debug/cmTC_f987b.exp]
         ignore line: [LINK : warning LNK4098: ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║╨░ ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О "LIBCMT" ╨║╨╛╨╜╤Д╨╗╨╕╨║╤В╤Г╨╡╤В ╤Б ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨┤╤А╤Г╨│╨╕╤Е ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║]
-        ignore line: [ ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ /NODEFAULTLIB:library [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
-        ignore line: [  cmTC_9f45a.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\Debug\\cmTC_9f45a.exe]
+        ignore line: [ ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ /NODEFAULTLIB:library [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
+        ignore line: [  cmTC_f987b.vcxproj -> C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\Debug\\cmTC_f987b.exe]
         ignore line: [FinalizeBuildStatus:]
-        ignore line: [  ╨д╨░╨╣╨╗ "cmTC_9f45a.dir\\Debug\\cmTC_9f45a.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.]
-        ignore line: [  ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_9f45a.dir\\Debug\\cmTC_9f45a.tlog\\cmTC_9f45a.lastbuildstate".]
-        ignore line: [╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).]
+        ignore line: [  ╨д╨░╨╣╨╗ "cmTC_f987b.dir\\Debug\\cmTC_f987b.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.]
+        ignore line: [  ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_f987b.dir\\Debug\\cmTC_f987b.tlog\\cmTC_f987b.lastbuildstate".]
+        ignore line: [╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).]
         ignore line: []
         ignore line: [╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.]
         ignore line: []
-        ignore line: ["C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->]
-        ignore line: ["C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В CudaBuildCore ) (1:2) ->]
+        ignore line: ["C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->]
+        ignore line: ["C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В CudaBuildCore ) (1:2) ->]
         ignore line: [(╨ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В CudaBuildCore) -> ]
-        ignore line: [  cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
-        ignore line: [  cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
-        ignore line: [  cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
-        ignore line: [  C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCompilerCUDAArch.h(10): warning C4305: return: ╤Г╤Б╨╡╤З╨╡╨╜╨╕╨╡ ╨╕╨╖ "int" ╨▓ "bool" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
+        ignore line: [  cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
+        ignore line: [  cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
+        ignore line: [  cl : ╨║╨╛╨╝╨░╨╜╨┤╨╜╨░╤П ╤Б╤В╤А╨╛╨║╨░ warning D9002: ╨┐╤А╨╛╨┐╤Г╤Б╨║ ╨╜╨╡╨╕╨╖╨▓╨╡╤Б╤В╨╜╨╛╨│╨╛ ╨┐╨░╤А╨░╨╝╨╡╤В╤А╨░ "-v" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
+        ignore line: [  C:\\Users\\79960\\scoop\\apps\\cmake\\current\\share\\cmake-4.2\\Modules\\CMakeCompilerCUDAArch.h(10): warning C4305: return: ╤Г╤Б╨╡╤З╨╡╨╜╨╕╨╡ ╨╕╨╖ "int" ╨▓ "bool" [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
         ignore line: []
         ignore line: []
-        ignore line: ["C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->]
+        ignore line: ["C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->]
         ignore line: [(╨ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В Link) -> ]
         ignore line: [  LINK : warning LNK4044: ╨╜╨╡╤А╨░╤Б╨┐╨╛╨╖╨╜╨░╨╜╨╜╤Л╨╣ ╨┐╨░╤А╨░╨╝╨╡╤В╤А "/v"]
-        ignore line: [ ╨╕╨│╨╜╨╛╤А╨╕╤А╤Г╨╡╤В╤Б╤П [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
+        ignore line: [ ╨╕╨│╨╜╨╛╤А╨╕╤А╤Г╨╡╤В╤Б╤П [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
         ignore line: [  LINK : warning LNK4098: ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║╨░ ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О "LIBCMT" ╨║╨╛╨╜╤Д╨╗╨╕╨║╤В╤Г╨╡╤В ╤Б ╨╕╤Б╨┐╨╛╨╗╤М╨╖╨╛╨▓╨░╨╜╨╕╨╡╨╝ ╨┤╤А╤Г╨│╨╕╤Е ╨▒╨╕╨▒╨╗╨╕╨╛╤В╨╡╨║]
-        ignore line: [ ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ /NODEFAULTLIB:library [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-iykwfd\\cmTC_9f45a.vcxproj]]
+        ignore line: [ ╨╕╤Б╨┐╨╛╨╗╤М╨╖╤Г╨╣╤В╨╡ /NODEFAULTLIB:library [C:\\Users\\79960\\CLionProjects\\MPI_CUDA\\cmake-build-task2-Debug\\CMakeFiles\\CMakeScratch\\TryCompile-ymhj2f\\cmTC_f987b.vcxproj]]
         ignore line: []
         ignore line: [    ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 6]
         ignore line: [    ╨Ю╤И╨╕╨▒╨╛╨║: 0]
         ignore line: []
-        ignore line: [╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.28]
+        ignore line: [╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:03.40]
         ignore line: []
         ignore line: []
         linker tool for 'CUDA': C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe
@@ -6169,7 +6169,7 @@ events:
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/Internal/CMakeDetermineLinkerId.cmake:38 (message)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
       - "C:/Users/79960/scoop/apps/cmake/current/share/cmake-4.2/Modules/CMakeTestCUDACompiler.cmake:19 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:30 (enable_language)"
+      - "CMakeLists.txt:31 (enable_language)"
     message: |
       Running the CUDA compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/bin/HostX64/x64/link.exe" "-v"
       Microsoft (R) Incremental Linker Version 14.44.35222.0
